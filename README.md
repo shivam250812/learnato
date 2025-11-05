@@ -359,17 +359,5 @@ Contributions are welcome! Please follow these steps:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Author
-
-Built with ❤️ for the Discussion Forum challenge
-
-## 📞 Support
-
-For questions or issues:
-- Create an issue in the repository
-- Contact: [your-email@example.com]
-
----
-
 **⭐ If you find this project useful, please give it a star!**
 
